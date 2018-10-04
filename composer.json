@@ -1,0 +1,18 @@
+{
+    "name": "ionepub/api-auth",
+    "description": "simple api auth",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ionepub",
+            "email": "1577628623@qq.com"
+        }
+    ],
+    "require": {
+        "desarrolla2/cache": "v2.1.1"
+    },
+    "autoload": {
+        "psr-4": {"Ionepub\\": "src/"}
+    }
+}
